@@ -1,7 +1,12 @@
 <h1 align="center"> Plataforma de Links </h1>
 
 <p align="center">
-Um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.  
+Um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
+
+<br>
+
+  <p align="center">Feito durante o curso da Rocketseat, adaptado para um uso real em uma escola de inglês online
+  </p> 
 </p>
 
 <p align="center">
