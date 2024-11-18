@@ -53,4 +53,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por <a href="www.linkedin.com/in/allisonavs" target="_blank">Allisonavs</a>
+Feito por <a href="www.linkedin.com/in/allisonavs">Allisonavs</a>
